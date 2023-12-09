@@ -39,6 +39,3 @@ contract SimpleStorage {
     }
 
 }
-
-// 0x4dca3101362e25987a33b1490ea019979a6e4f98
-// address of the contract
