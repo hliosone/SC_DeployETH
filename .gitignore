@@ -1,4 +1,4 @@
-.env
+param.env
 node_modules/
 .vscode/
 .cache/
